@@ -60,6 +60,12 @@ main a {
 	padding: 30px 0;
 }
 
+#wip {
+	margin: auto;
+        width: 40%;
+        text-align: center;
+}
+
 .navegacao-site h1 {
 	font-size: 30px;
 	margin-bottom: 25px;
