@@ -105,11 +105,13 @@ nav a {
 	background-image: url(../img/linkedin.png);
 }
 
+/*
 main {
 	float: left;
 	width: 85%;
 	padding-bottom: 80px;
 }
+*/
 
 .minha-foto, .navegacao-site {
 	float: right;
