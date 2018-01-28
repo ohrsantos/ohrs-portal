@@ -10,6 +10,10 @@ h1, h2 {
 	font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
 
+#lista-servidores {
+     list-style-type:square;
+}
+
 .titulo-principal {
 	text-align: center;
 	background-color: #010101;
