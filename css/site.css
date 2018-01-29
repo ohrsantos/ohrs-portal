@@ -25,7 +25,7 @@ h1, h2 {
 	padding: 25px;
 	border-bottom: 10px solid black;
 	font-size: 60px;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 }
 
 p {
