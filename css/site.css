@@ -24,6 +24,7 @@ h1, h2 {
         border-top: 10px solid black;
 	font-size: 40px;
         text-shadow: 4px 4px 4px #aaa;
+        margin-top: 0;
 	/*text-transform: uppercase;*/
 }
 
