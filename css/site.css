@@ -25,6 +25,7 @@ h1, h2 {
 	padding: 25px;
 	border-bottom: 10px solid black;
 	font-size: 40px;
+        text-shadow: 4px 4px 4px #aaa;
 	/*text-transform: uppercase;*/
 }
 
