@@ -18,14 +18,12 @@ h1, h2 {
 .titulo-principal {
 	text-align: center;
 	background-color: #ffc266;
-	color: whitesmoke;
+	color: #555;
 	padding: 25px;
 	border-bottom: 10px solid black;
         border-top: 10px solid black;
 	font-size: 40px;
-        text-shadow: 4px 4px 4px #aaa;
         margin-top: 0;
-	/*text-transform: uppercase;*/
 }
 
 p {
