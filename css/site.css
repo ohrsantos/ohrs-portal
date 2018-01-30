@@ -1,7 +1,3 @@
-.navbar-inverse {
-    margin: 0;
-}
-
 body {
 	font-family: "Crimson Text", "Times New Roman", serif;
 	background-color: white;
@@ -101,9 +97,11 @@ em {
 	display: inline-block;
 }
 
+/*
 nav a {
 	text-transform: lowercase;
 }
+*/
 
 .icones-redes-sociais a {
 	width: 40px;
