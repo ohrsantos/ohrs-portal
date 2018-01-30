@@ -11,6 +11,10 @@ h1, h2 {
 	font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
 
+#ti {
+    color:orange;
+}
+
 #lista-servidores {
      list-style-type:square;
 }
