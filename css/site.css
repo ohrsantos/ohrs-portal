@@ -7,7 +7,7 @@ body {
         /*background-image:url('https://s3.amazonaws.com/ohrs-aws/static/InTheDepths-dark.jpg'); */
 }
 
-h1, h2 {
+h1, h2, h3 {
 	font-family: "Open Sans Condensed", "Arial", sans-serif;
 }
 
